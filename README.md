@@ -183,7 +183,7 @@ This dashboard helps organizations:
 
 **Project Type:** Logistics & Supply Chain Analytics Dashboard
 
-**Organization:** AirVault Express & Logistics (Internship Project)
+**Organization:** Airvault Express & Logistics (Internship Project)
 
 ## 📄 License
 
